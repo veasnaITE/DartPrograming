@@ -1,0 +1,46 @@
+Object Oriented Programing (OOP) is a program method that uses
+object and their interaction to design and program applictaions.
+
+OPP an object can be anthing such as a peron, a bank account, a car , or a house. 
+
+Advantages : 
+- it is easy to understand and use 
+- it increases reusability and decreases complexity
+- the productivity of programmres increses 
+- it makes the code easier to maintain, modify and debug.
+- it promotes teamwork and collabaration 
+- it reduces the repetition of code
+
+Features of OOP
+1. Class 
+2. Object 
+3. Encapsulation 
+4. Inheritance 
+6. Polymorphism 
+7. Abstraction 
+
+Class In Dart
+
+class is a blueprint for creating objects. A class defines
+ the properties and methods that an object will have. 
+ For example, a class called Dog might have properties like breed, color and methods like bark, run.
+
+Encapsulation can be achieved by:
+
+Declaring the class properties as private by using underscore(_).
+Providing public getter and setter methods to access and update the value of private property.
+
+Why Encapsulation Is Important?
+Data Hiding: Encapsulation hides the data from the outside world. It prevents the data from being accessed by the code outside the class. This is known as data hiding.
+Testability: Encapsulation allows you to test the class in isolation. It will enable you to test the class without testing the code outside the class.
+Flexibility: Encapsulation allows you to change the implementation of the class without affecting the code outside the class.
+Security: Encapsulation allows you to restrict access to the class members. It will enable you to limit access to the class members from the code outside the library.
+
+Setter is used to set the value of a property. It is mostly used to update a private property’s value. Setter provide explicit write access to an object properties.
+
+Advantages Of Inheritance In Dart
+-It promotes reusability of the code and reduces redundant code.
+-It helps to design a program in a better way.
+-It makes code simpler, cleaner and saves time and money on maintenance.
+-It facilitates the creation of class libraries.
+-It can be used to enforce standard interface to all children classes.
